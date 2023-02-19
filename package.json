@@ -1,0 +1,14 @@
+{
+    "name": "discord-homepage-clone",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "build": "npx tailwindcss -i src/input.css -o public/style.css",
+      "buildwatch": "npx tailwindcss -i src/input.css -o public/style.css --watch"
+    },
+    "keywords": [],
+    "author": "SamirMishra27",
+    "license": "ISC"
+  }
+  
