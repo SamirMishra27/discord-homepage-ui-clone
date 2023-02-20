@@ -1,10 +1,14 @@
+# discord-homepage-ui-clone
+
 Discord's homepage UI clone, fully responsive across _all_ devices made with using HTML5, TailwindCSS and JavaScript.
 
 Site demo link - **[Netlify](https://dc-ui-clone-sm27.netlify.app)**
 
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48px" height="48px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48px" height="48px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="48px" height="48px"/>
+</p>
 
 # Illustrations
 
